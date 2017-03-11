@@ -23,6 +23,6 @@
 *尽可能多地尝试不同的、更多的样式设定来实践各种CSS属性
 HTML 及 CSS 代码结构清晰、规范
 ## 在线学习参考资料
-* MDN HTML入门
-* MDN CSS入门教程
-* 慕课HTML+CSS基础教程视频
+* ［MDN HTML入门］（https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction）
+* ［MDN CSS入门教程］（https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started）
+* ［慕课HTML+CSS基础教程视频］（http://www.imooc.com/learn/9）
