@@ -114,6 +114,7 @@ p{
 .main_left{
 	margin-left:0;
 	margin-right:422px;
+	min-width:172px;
 }
 /*图片展示部分开始*/
 .imgPart{
